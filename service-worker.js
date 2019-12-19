@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/piano-note-reading-game/precache-manifest.910e67411ee6920333b572eab26b7bc6.js"
+  "/piano-note-reading-game/precache-manifest.743069f1d082286280ac8fcc171dd296.js"
 );
 
 self.addEventListener('message', (event) => {

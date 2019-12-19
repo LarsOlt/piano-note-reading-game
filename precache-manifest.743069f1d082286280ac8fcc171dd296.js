@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb3073efb47229187fdaf38bbdc728e",
+    "revision": "160a6b771e32fdebb45ef9d62b5f5b15",
     "url": "/piano-note-reading-game/index.html"
   },
   {
-    "revision": "7338dfa198854c7a76fd",
+    "revision": "8caa4f9cbd8e030636de",
     "url": "/piano-note-reading-game/static/css/main.735d2ad9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piano-note-reading-game/static/js/2.f9107806.chunk.js.LICENSE"
   },
   {
-    "revision": "7338dfa198854c7a76fd",
-    "url": "/piano-note-reading-game/static/js/main.e2d6a582.chunk.js"
+    "revision": "8caa4f9cbd8e030636de",
+    "url": "/piano-note-reading-game/static/js/main.3599db7e.chunk.js"
   },
   {
     "revision": "8a11b21a655c82788a37",
