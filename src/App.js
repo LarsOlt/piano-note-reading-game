@@ -27,6 +27,18 @@ class App extends React.Component {
         {
           name: "F",
           representations: ["U", "\\"]
+        },
+        {
+          name: "G",
+          representations: ["V", "]"]
+        },
+        {
+          name: "A",
+          representations: ["W", "^"]
+        },
+        {
+          name: "H",
+          representations: ["X", "‰"]
         }
       ],
       bass: []
@@ -47,7 +59,6 @@ class App extends React.Component {
     })
 
     const obj = this.getRandomArrayItem(this.notes.treble);
-
     const note = this.getRandomArrayItem(obj.representations);
 
     this.setState({
@@ -69,12 +80,16 @@ class App extends React.Component {
 
       setTimeout(()=>{
         this.newNoteGuess()
-      }, 1000)
+      }, 2000)
     }
   }
 
   render() {
-    const keys= ["C","D","E","F","G","A","H"];
+    const keys = ["C","D","E","F","G","A","H"];
+    const text = this.state.hasWon? "Correct ✔" : "Which note is this?"
+    const winStyle= {
+      color: "green"
+    }
 
     return (
       <div className={css.App}>
@@ -82,7 +97,7 @@ class App extends React.Component {
           <h1 className={css.display}>
             {this.state.generatedNote? `'&====${this.state.generatedNote.value}======` : ""}
           </h1>
-        <h2>{this.state.hasWon? "Correct!" : "Which note is this?"}</h2>
+        <h2 style={this.state.hasWon ? winStyle:null}>{text}</h2>
         </div>
 
         <div className={css.keyboard}>
