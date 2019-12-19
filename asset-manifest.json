@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0539955a.chunk.css",
-    "main.js": "/static/js/main.dab6ea3f.chunk.js",
-    "main.js.map": "/static/js/main.dab6ea3f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6ca9171a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6ca9171a.js.map",
-    "static/js/2.f9107806.chunk.js": "/static/js/2.f9107806.chunk.js",
-    "static/js/2.f9107806.chunk.js.map": "/static/js/2.f9107806.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.331ac4afc58dcf50558c94423257a36f.js": "/precache-manifest.331ac4afc58dcf50558c94423257a36f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0539955a.chunk.css.map": "/static/css/main.0539955a.chunk.css.map",
-    "static/js/2.f9107806.chunk.js.LICENSE": "/static/js/2.f9107806.chunk.js.LICENSE"
+    "main.css": "/piano-note-reading-game/static/css/main.0539955a.chunk.css",
+    "main.js": "/piano-note-reading-game/static/js/main.e2d6a582.chunk.js",
+    "main.js.map": "/piano-note-reading-game/static/js/main.e2d6a582.chunk.js.map",
+    "runtime-main.js": "/piano-note-reading-game/static/js/runtime-main.1c96bd7f.js",
+    "runtime-main.js.map": "/piano-note-reading-game/static/js/runtime-main.1c96bd7f.js.map",
+    "static/js/2.f9107806.chunk.js": "/piano-note-reading-game/static/js/2.f9107806.chunk.js",
+    "static/js/2.f9107806.chunk.js.map": "/piano-note-reading-game/static/js/2.f9107806.chunk.js.map",
+    "index.html": "/piano-note-reading-game/index.html",
+    "precache-manifest.dbca20221116ddc872d7a154fb315c86.js": "/piano-note-reading-game/precache-manifest.dbca20221116ddc872d7a154fb315c86.js",
+    "service-worker.js": "/piano-note-reading-game/service-worker.js",
+    "static/css/main.0539955a.chunk.css.map": "/piano-note-reading-game/static/css/main.0539955a.chunk.css.map",
+    "static/js/2.f9107806.chunk.js.LICENSE": "/piano-note-reading-game/static/js/2.f9107806.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ca9171a.js",
+    "static/js/runtime-main.1c96bd7f.js",
     "static/js/2.f9107806.chunk.js",
     "static/css/main.0539955a.chunk.css",
-    "static/js/main.dab6ea3f.chunk.js"
+    "static/js/main.e2d6a582.chunk.js"
   ]
 }
